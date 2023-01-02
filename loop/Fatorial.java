@@ -1,5 +1,5 @@
 /* Faça um programa que calcula o fatorial de um numero inteiro fornecido pelo usuario. */
-package exercicios;
+package loop;
 
 import java.util.Scanner;
 

@@ -1,7 +1,8 @@
 /* Faça um programa que peça N numeros inteiros, calcule e mostre a 
 quantidade de números pares e a 
 quantidade de números impares. */
-package exercicios;
+package loop;
+
 
 import java.util.Scanner;
 

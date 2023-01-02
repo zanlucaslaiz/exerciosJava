@@ -1,4 +1,4 @@
-package exercicios.set;
+package set;
 
 
 // usando o set

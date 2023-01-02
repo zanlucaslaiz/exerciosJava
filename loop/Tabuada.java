@@ -7,7 +7,8 @@ Tabuada de 5:
 5 x 2 = 10
 ...
 5 x 10 = 50 */
-package exercicios;
+package loop;
+
 
 import java.util.Scanner;
 

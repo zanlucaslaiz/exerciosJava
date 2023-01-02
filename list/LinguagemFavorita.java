@@ -8,13 +8,17 @@
 // Ao final, exiba as linguagens no console, um abaixo da outra.
 
 // use list
-
-package exercicios.list;
+package list;
 import java.sql.Date;
 
 
-public class LinguagemFavorita {
-    String nome;
+public class LinguagemFavorita{
+    public static void main(String[] args) {
+        String nome;
     Date anoDeCriacao;
     String ide;
+    }
 }
+
+
+// https://github.com/cami-la/curso-dio-intro-collections/blob/master/src/br/com/dio/collection/list/ExercicioProposto02.java

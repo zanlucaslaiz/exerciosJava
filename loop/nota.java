@@ -1,7 +1,8 @@
 /*Faça um programa que leia uma nota, entre zero e dez.
 Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuario informe um valor valido. */
 
-package exercicios;
+package loop;
+
 
 import java.util.Scanner;
 

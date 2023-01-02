@@ -1,7 +1,8 @@
 /*Faça um programa que leia 5 números:
 Depois informa o maior número e a media desse números. */
 
-package exercicios;
+package loop;
+
 
 import java.util.Scanner;
 
