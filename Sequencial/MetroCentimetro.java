@@ -1,4 +1,4 @@
-package Sequencial;
+package sequencial;
 /*Faça um Programa que converta metros para centímetros. */
 
 import java.util.Scanner;

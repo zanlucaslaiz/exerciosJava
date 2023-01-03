@@ -1,4 +1,4 @@
-package Sequencial;
+package sequencial;
 
 /*Faça um Programa que mostre a mensagem "Alo mundo" na tela. */
 public class OlaMundo {

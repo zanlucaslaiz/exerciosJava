@@ -7,8 +7,8 @@
 // Nome, ano de criacao e IDE
 // Ao final, exiba as linguagens no console, um abaixo da outra.
 
-// use list
-package list;
+// use set
+package set;
 import java.sql.Date;
 
 
